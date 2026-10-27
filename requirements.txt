@@ -1,0 +1,23 @@
+# ============================================================
+# Fake News Detection System — Requirements
+# ============================================================
+# Python >= 3.9 recommended
+
+# Deep learning
+torch>=2.0.0
+transformers>=4.38.0
+accelerate>=0.27.0
+
+# Classical ML
+scikit-learn>=1.3.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0           # XLSX support
+
+# Web app
+streamlit>=1.32.0
+
+# Utilities
+tqdm>=4.66.0
